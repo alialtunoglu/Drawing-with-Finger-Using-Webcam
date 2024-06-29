@@ -37,7 +37,13 @@ Once the program starts:
 - Open your fingers to start drawing and close them to stop.
 - Press the `q` key to terminate the program.
 
+## Example
 
+Here is an example of the program in action:
+
+![Example Image](ornek.png)
+
+![Example Image](ornek2.png)
 ## Contributing
 
 If you would like to contribute, please submit a pull request or report any issues. All contributions and feedback are welcome!
@@ -45,6 +51,3 @@ If you would like to contribute, please submit a pull request or report any issu
 ## License
 
 This project is licensed under the MIT License. For more information, see the `LICENSE` file.
-```
-
-This README file provides a clear summary of your project and instructions on how to use and contribute to it. You can create this file and add it to your GitHub project.
